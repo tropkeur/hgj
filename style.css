@@ -1,0 +1,55 @@
+#header {
+	height:260px;
+	background-color: #333366;
+	color : white;
+	font-family : calibri;
+	text-align : center;
+
+}
+h1{
+		font-weight : 370;
+		font-size : 40px;
+		
+}
+#nav {
+	font-family : calibri;
+	width : 1000px;
+	margin-left : auto;
+	margin-right : auto;
+	color : black;
+	font-size : 18px;
+
+}
+
+#main {
+	width : 1000px;
+	text-align : center;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+h2 {
+	height:12px;
+	font-size : 37px;
+	font-weight : lighter;
+	font-family : calibri;
+	text-align : left;
+	
+	
+}
+p2 {
+	font-size : 17px;
+	font-weight : bold;
+	
+}
+
+ul{
+	background-color: #e8ebec;
+ 
+	margin-left : auto;
+	margin-right : auto;
+	font-family : calibri;
+}
+a {
+	text-align:center;
+}
